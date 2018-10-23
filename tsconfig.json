@@ -1,0 +1,15 @@
+{
+    "files":[
+        "code.ts",
+    ],
+    "compilerOptions": {
+        "module": "system",
+        "outFile": "js/game.js",
+        "target": "es5",
+        "watch": true,
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules/**/*"
+    ]
+}
